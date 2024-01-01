@@ -1,18 +1,18 @@
 {
-  "name": "simple-canvas",
+  "name": "simplification-work-canvas",
   "version": "1.0.0",
   "description": "functions to simplify canvas rendering",
-  "main": "package.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "/home/assia-pc/Документы/simple-canvas/.git/"
+    "url": "/home/assia-pc/Документы/simplification-work-canvas/.git/"
   },
   "keywords": [
     "canvas"
   ],
-  "author": "Aleksandra Sumatokhina",
+  "author": "sugar_hengerhog",
   "license": "ISC"
 }
